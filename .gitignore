@@ -70,3 +70,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Project/Temp
+AssetStore.meta
+Resources.meta
+Project/Assets/AssetStore
+Project/obj
+Project/Assets/Resources
