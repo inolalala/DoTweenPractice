@@ -14,6 +14,6 @@ public class DOScaleSample1 : MonoBehaviour
             duration
         )
         .SetLoops(-1,LoopType.Yoyo)//膨らんで、縮む。
-        .SetEase(easeType); //イージングをかける。Sphere膨らみ方・縮み方加速度に変化がつく
+        .SetEase(easeType); //イージングをかける。Sphere膨らみ方・縮み方の加速度に変化がつく
     }
 }
