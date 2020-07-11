@@ -8,6 +8,8 @@ https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?l
 目的地と時間さえ指定すれば、その間を補完して、よしなにアニメーションしてくれる。
 
 # 導入
-このリポジトリには含めていないので、AssetStoreでDLしたあと、「AssetStore」フォルダを作成してその中に「Demigiant」フォルダ(DOTweenのライブラリが入ってる)を入れてください。
-(.gitignoreで「AssetStore」フォルダを指定しているので、その方がウザくないかな？ぐらいの意図です。)
+このリポジトリにはDOTweenを含めていないので、AssetStoreでDLしたあと、「AssetStore」フォルダを作成してその中に「Demigiant」フォルダ(DOTweenのライブラリが入ってる)を入れてください。
+(.gitignoreで「AssetStore」フォルダを指定しているので、その方が邪魔にならなくてウザくないかな？ぐらいの作業意図です。)
+
+
 
