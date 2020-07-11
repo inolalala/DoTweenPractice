@@ -10,6 +10,3 @@ https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?l
 # 導入
 このリポジトリにはDOTweenを含めていないので、AssetStoreでDLしたあと、「AssetStore」フォルダを作成してその中に「Demigiant」フォルダ(DOTweenのライブラリが入ってる)を入れてください。
 (.gitignoreで「AssetStore」フォルダを指定しているので、その方が邪魔にならなくてウザくないかな？ぐらいの作業意図です。)
-
-
-
